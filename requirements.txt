@@ -1,0 +1,4 @@
+Flask
+pydub
+spleeter
+ffmpeg-python
