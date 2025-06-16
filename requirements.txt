@@ -1,4 +1,4 @@
-Flask
-pydub
-spleeter
-ffmpeg-python
+Flask==3.1.1
+pydub==0.25.1
+spleeter==2.1.0
+ffmpeg-python==0.2.0
